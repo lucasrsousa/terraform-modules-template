@@ -1,0 +1,5 @@
+.terraform*
+terraform.tfs*
+info.txt
+Dockerfile
+run-terraform*
